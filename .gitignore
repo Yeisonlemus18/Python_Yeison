@@ -1,0 +1,9 @@
+
+### 2. **.gitignore**
+
+- **Propósito**: Indica a Git qué archivos o directorios deben ser ignorados y no deben ser rastreados por el sistema de control de versiones.
+- **Contenido típico para un proyecto de Python**:
+  - Carpetas y archivos generados automáticamente, como `__pycache__/`, `.vscode/`, `*.pyc`, etc.
+  - Dependencias de Python, por ejemplo, `venv/` o `env/` si estás usando entornos virtuales locales.
+
+
