@@ -3,7 +3,7 @@
 
 # Aprendiendo Python
 
-Este repositorio contiene todos los ejercicios, proyectos y notas relacionadas con mi aprendizaje de Python. 
+Este repositorio contiene todos los ejercicios, proyectos y notas relacionadas con mi aprendizaje personal de Python. 
 
 ## Contenido
 
