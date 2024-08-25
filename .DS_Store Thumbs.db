@@ -1,0 +1,8 @@
+
+### 3. **requirements.txt**
+
+- **Propósito**: Especifica las dependencias del proyecto Python para que otros puedan instalar fácilmente los paquetes necesarios.
+- **Contenido típico**:
+  - Listado de paquetes y sus versiones necesarias para ejecutar el proyecto.
+
+
